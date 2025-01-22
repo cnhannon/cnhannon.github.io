@@ -41,6 +41,6 @@ I want to make data easy to understand, so people can use it to make smart choic
 ---
 
 **Get in Touch**  
-You can reach me on [GitHub](https://github.com/cnhannon) or [LinkedIn](#) if you would like to connect.
+You can reach me on <a href="https://github.com/cnhannon" target="_blank">GitHub</a> or [LinkedIn](#) if you would like to connect.
 
 ---
