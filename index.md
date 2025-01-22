@@ -7,6 +7,10 @@
 #
 layout: page
 title: Chris Hannon
+Description: This is what I do
+
+---
+
 ---
 
 <div style="text-align: center;">
@@ -15,17 +19,28 @@ title: Chris Hannon
 
 ---
 
-**Biography**
+## About Me
 
-Hello, world!
-I'm Chris. A **British Army Veteran** with combat experience in Iraq and Afghanistan. Since leaving the Armed Forces I turned to more technical occupations. Working as a **Technical Operator**, fixing and maintaining a state of the art cell battery assembly production line. And returning to education to obtain a **Certificate of Higher Education in Computer Science** from Sunderland University. Most recently I have completed a **Le Wagon Data Analytics Bootcamp** accredited by BCS The Chartered Institute for IT.
+Hello, world! I am a **Data Analyst** with a strong background in both technical roles and problem-solving. My career started in the British Army, where I served in Iraq and Afghanistan and as an instructor at the Infantry Training Centre. I learned discipline, attention to detail, and effective communication, which I now use to make sense of data.
 
-- Skills
-    - Current
-    - Learning
-- Hobbies
-- Passions
+### My Journey
 
-Your biography text goes here. Feel free to talk about your background, education, skills, and what you're passionate about. This could be a paragraph or two, depending on how detailed you want to get.
+After the Army, I worked as a **Technical Operator**. My job was to keep a battery production line running smoothly, finding and fixing any problems along the way. This taught me a lot about process improvement and hands-on troubleshooting. I spent two years traveling in Australia and South East Asia before returning to the UK to study **Computer Science**.
+
+### Moving into Data Analysis
+
+I recently completed **Le Wagon's Data Analytics Bootcamp** accredited by BCS The Chartered Institute for IT, and became interested in data analysis through exploring tools like **Power BI**, **Python**, and **SQL**. I enjoy finding patterns in data and using it to tell a clear story. Recently, I have worked on projects such as:
+
+- **Ecommerce Data Analysis**: Using Power BI to find trends in customer behaviour and sales.
+- **Sleep and Productivity Study**: Working with others to look at how stress and sleep affect workers' alertness and productivity.
+
+### My Aim
+
+I want to make data easy to understand, so people can use it to make smart choices. I am always looking for ways to make data clear and useful.
+
+---
+
+**Get in Touch**  
+You can reach me on [GitHub](https://github.com/cnhannon) or [LinkedIn](#) if you would like to connect.
 
 ---

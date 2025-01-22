@@ -6,9 +6,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  | Data Analyst |
+  | Insights into complex data sets to drive strategic decision-making |
 
 # Build settings
 
@@ -29,7 +28,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - about.md
+  # - about.md
   - projects.md
   - /assets/cv/Christopher-Hannon-CV.pdf
 
@@ -69,8 +68,8 @@ minima:
   #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-    - { platform: test-x,              user_url: "https://x.com/cnhannon" }
+    - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+    - { platform: x,              user_url: "https://x.com/cnhannon" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 
