@@ -13,17 +13,15 @@ Description: This is what I do
 
 ---
 
-<div style="text-align: center;">
-  <img src="/assets/images/portfoliopic.png" alt="Your Name" style="max-width: 200px; border-radius: 50%;">
-</div>
+![Chris Hannon](/assets/images/portfoliopic.png){: .profile-pic}
 
 ---
 
 ## About Me
 
-Hello, world! I am a **Data Analyst** with a strong background in both technical roles and problem-solving. My career started in the British Army, where I served in Iraq and Afghanistan and as an instructor at the Infantry Training Centre. I learned discipline, attention to detail, and effective communication, which I now use to make sense of data.
+Hello, world! I am an aspiring **Data Analyst** with a strong background in technical roles and problem-solving. My career started in the British Army, where I served in Iraq and Afghanistan and as an instructor at the Infantry Training Centre. I learned discipline, attention to detail, and effective communication, which I now use to make sense of data.
 
-### My Journey
+### My Story
 
 After the Army, I worked as a **Technical Operator**. My job was to keep a battery production line running smoothly, finding and fixing any problems along the way. This taught me a lot about process improvement and hands-on troubleshooting. I spent two years traveling in Australia and South East Asia before returning to the UK to study **Computer Science**.
 
@@ -41,6 +39,6 @@ I want to make data easy to understand, so people can use it to make smart choic
 ---
 
 **Get in Touch**  
-You can reach me on <a href="https://github.com/cnhannon" target="_blank">GitHub</a> or [LinkedIn](#) if you would like to connect.
+You can reach me on [GitHub](https://github.com/cnhannon){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/chris-n-hannon){:target="_blank"} if you would like to connect.
 
 ---
